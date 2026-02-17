@@ -3,7 +3,7 @@
 The dataset used is the **India Air Quality Data** from Kaggle. It contains air quality measurements across Indian cities.
 
 Dataset Source:
-🔗 [https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data](https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data)
+[https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data](https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data)
 
 We use **NO₂ (Nitrogen Dioxide)** concentration as the feature variable.
 

@@ -33,6 +33,6 @@ z_range = np.linspace(min(z), max(z), 500)
 p_hat = c * np.exp(-lam * (z_range - mu) ** 2)
 
 plt.hist(z, bins=50, alpha=0.6)
-plt.plot(z_range, p_hat, "r", label="Learned PDF")
-plt.show()
+plt.plot(z_range, p_hat, "r")
 plt.savefig("histogram.png")
+plt.show()
